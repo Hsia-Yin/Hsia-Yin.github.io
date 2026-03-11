@@ -11,4 +11,4 @@ comments: false
 
 开心一点，我的朋友们，如果世上还有悲伤，应许让我一人承担吧，我爱你，我爱你们。
 
-<div class="about-signature">— Chicherin, March 8, 2026</div>
+<div class="about-signature">— Chicherin, March 5, 2026</div>
